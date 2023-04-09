@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">NewsApp</string>
-    <string name="api_key" translatable="false">07bda366765e486f94878cebe4aa462b</string>
+    <string name="api_key" translatable="false">YOUR_APIKEY_HERE,, I GOT MINE FROM NEWSAPI.ORG :))</string>
 </resources>
